@@ -104,9 +104,13 @@ This public repository contains demonstration materials only.
 
 ## Project Screenshots
 
-Screenshots of the application interface and selected features will be added following a privacy and security review.
+### AI Agent Laryx Core – Main Interface
 
----
+The screenshot below demonstrates the Laryx Core interface,
+including its navigation panel, AI interaction system,
+and locally generated responses.
+
+![AI Agent Laryx Core Interface](01-laryx-main-interface.png)
 
 ## Development Roadmap
 
